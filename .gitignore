@@ -1,0 +1,13 @@
+# Nunca publicar nada que não seja a proposta final já pronta.
+*.xlsx
+*.xls
+*.pdf
+*chave*
+*Chave*
+*token*
+*Token*
+*senha*
+*Senha*
+*.env
+.DS_Store
+Thumbs.db
